@@ -21,13 +21,13 @@
                     <div class="frame">
                         <div class="clearfix">
                             <strong class="logo">
-                                <a href="/hpcan">
+                                <a href="index.php">
                                     <img src="assets/images/logo.png" alt="logo" />
                                 </a>
                             </strong>
                             <nav>
                                 <ul class="sf-menu">
-                                    <li class="<?php echo ($page == "home" ? "active" : "")?>"><a href="/hpcan">Home</a></li>
+                                    <li class="<?php echo ($page == "home" ? "active" : "")?>"><a href="index.php">Home</a></li>
                                     <li class="<?php echo ($page == "about" ? "active" : "")?>"><a href="about.php">About</a></li>
                                     <li class="<?php echo ($page == "volunteer" ? "active" : "")?>"><a href="volunteer.php">Volunteer</a></li>
                                     <li class="<?php echo ($page == "gallery" ? "active" : "")?>"><a href="gallery.php">Gallery</a></li>

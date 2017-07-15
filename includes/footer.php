@@ -16,7 +16,7 @@
                     <div class="col-md-3">
                         <div class="content">
                             <ul>
-                                <li><a href="/hpcan">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About</a></li>
                                 <li><a href="volunteer.php">Volunteer</a></li>
                                 <li><a href="gallery.php">Gallery</a></li>
