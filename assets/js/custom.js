@@ -118,6 +118,9 @@ var app_plugins = {
 
 $(function(){
     $('form').validate();
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
     app_plugins.isotope();
     app_plugins.features.gallery.init();
     app_plugins.features.preview.init();

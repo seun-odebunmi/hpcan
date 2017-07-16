@@ -1,31 +1,36 @@
 <?php $page = "home"; include('includes/header.php'); ?>
 
         <div class="gallery">
-            <div class="overlay"></div>
-            <ul class="cb-slideshow">
-                <li>
-                    <span>Image 01</span>
-                    <div>
-                        <h3>
+            <!-- Full Page Image Background Carousel Header -->
+            <div id="myCarousel" class="carousel slide">
+
+                <!-- Wrapper for Slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <!-- Set the first background image using inline CSS below. -->
+                        <div class="fill"></div>
+                        <div class="carousel-caption">
+                            <h3>
                             Our goal is to ensure that palliative<br/>
                             care has a place in medical education<br/>
                             throughout Nigeria.
                         </h3>
+                        </div>
                     </div>
-                </li>
-                <li>
-                    <span>Image 02</span>
-                    <div>
-                        <h3>
-                            The object of hospice care is to treat<br/>
+                    <div class="item">
+                        <!-- Set the second background image using inline CSS below. -->
+                        <div class="fill"></div>
+                        <div class="carousel-caption">
+                            <h3>
+                            The objective of hospice care is to treat<br/>
                             the whole person, not the disease.
                         </h3>
+                        </div>
                     </div>
-                </li>
-            </ul>
-<!--
-            <h1 class="intro"></h1>
--->
+                </div>
+
+            </div>
+<!--            <div class="overlay"></div>-->
         </div>
 
         <!-- / gallery -->
@@ -37,18 +42,10 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <p>
-                                    Palliative care in Nigeria is still relatively in its infant stages. It stated with 2 centers.
-                                    These centers are the Palliative Care Initiative in Ibadan), and Hospice Nigeria in Lagos.
-                                    Six years after, a few Nigerians made that move to introduce palliative care in Nigeria
-                                    officially, it was finally made public in 2003, through the Palliative Care Initiative of
-                                    Nigeria (PCIN), now known as Centre for Palliative Care, Nigeria (CPCN). And the
-                                    association HPCAN was founded.
+                                    Founded in 2003, the Hospice and Palliative Care Association of Nigeria is committed to promoting and enhancing end-of-life care in Nigeria by means of educating, advocating, and providing technical and supportive services. It is our hope to create and expand access to exceptional hospice and palliative care for patients and families coping with the close of life experience.
                                 </p>
                                 <p>
-                                    The year 2003 was when palliative care was properly established to the
-                                    Nigerian government, policymakers and general public. This was made so as a
-                                    result of the dire need to reduce unnecessary pain and suffering from life
-                                    limiting illnesses across Nigeria. <a href="about.php">Read more</a>
+                                    The objective of hospice care is to treat the whole person, not the disease. It is family-centered care that remains patient-focused, addressing the physical, spiritual, emotional, and practical needs of a patient with a lifethreatening illness. An interdisciplinary team of health care professionals work with the patient and family to design and implement a plan of care unique to each patient. <a href="about.php">Read more</a>
                                 </p>
                             </div>
                         </div>
