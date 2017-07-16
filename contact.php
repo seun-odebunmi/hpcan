@@ -7,7 +7,7 @@
                         <div class="col-md-12">
                             <h2 class="title">Contact Us</h2>
                             <p>
-                                If you have comments or questions or want more information about HPCAA, you can contact us using our online form below. We want to hear from you.
+                                If you have comments or questions or want more information about HPCAN, you can contact us using our online form below. We want to hear from you.
                             </p>
                             <p>
                                 Fields marked with an<span class="red">*</span> are required.

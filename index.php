@@ -3,9 +3,8 @@
         <div class="gallery">
             <div class="overlay"></div>
             <h1 class="intro">
-                Our goal is to ensure that palliative<br />
-                care has a place in medical education<br />
-                throughout Nigeria.
+                The object of hospice care is to treat<br/>
+                the whole person, not the disease.
             </h1>
         </div>
 
@@ -29,7 +28,7 @@
                                     The year 2003 was when palliative care was properly established to the
                                     Nigerian government, policymakers and general public. This was made so as a
                                     result of the dire need to reduce unnecessary pain and suffering from life
-                                    limiting illnesses across Nigeria. <a href="#">Read more</a>
+                                    limiting illnesses across Nigeria. <a href="about.php">Read more</a>
                                 </p>
                             </div>
                         </div>

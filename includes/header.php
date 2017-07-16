@@ -17,7 +17,7 @@
     <div class="wrapper">
         <header>
             <div class="header-frame">
-                <div class="container-fluid">
+                <div class="container">
                     <div class="frame">
                         <div class="clearfix">
                             <strong class="logo">

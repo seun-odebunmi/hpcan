@@ -38,8 +38,6 @@
                             +234 8034 734 682
                             <br /><br />
                             <a href="mailto:info@hpcan.com">info@hpcan.com</a>
-                            <br /><br />
-                            <a href="#">Contact us</a>
                         </div>
                     </div>
                 </div>

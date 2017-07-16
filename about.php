@@ -13,7 +13,7 @@ services. It is our hope to create and expand access to exceptional hospice and 
 families coping with the close of life experience.
                             </p>
                             <p>
-                                The object of hospice care is to treat the whole person, not the disease. It is family-centered care that remains
+                                The objective of hospice care is to treat the whole person, not the disease. It is family-centered care that remains
 patient-focused, addressing the physical, spiritual, emotional, and practical needs of a patient with a lifethreatening
 illness. An interdisciplinary team of health care professionals work with the patient and family to
 design and implement a plan of care unique to each patient.
@@ -65,17 +65,17 @@ who elect palliative care understand that palliative care teams are to abide by 
                         </li>
                         <li>
                             <h2 class="sub-title">Dr (Mrs) YI Thorpe</h2>
-                            <p>Description here<br/>
+                            <p><br/>
                             </p>
                         </li>
                         <li>
                             <h2 class="sub-title">Dr ZO Ajuwon</h2>
-                            <p>Description here<br/>
+                            <p><br/>
                             </p>
                         </li>
                         <li>
                             <h2 class="sub-title">Chidinma Uwajumagu</h2>
-                            <p>Description here<br/>
+                            <p><br/>
                             </p>
                         </li>
                     </ul>

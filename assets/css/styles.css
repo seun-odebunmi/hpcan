@@ -517,16 +517,16 @@ header {
     .header-frame .frame {
         width: 100%;
         margin: 0 auto;
-        padding: 33px 0 36px;
+        padding: 10px 0;
     }
 
         .header-frame .frame .logo img {
-            height: 70px;
+            height: 100px;
         }
 /*nav*/
 nav {
     float: right;
-    padding-top: 18px;
+    padding: 20px 0;
     position: absolute;
     right: 0;
 }
@@ -617,8 +617,8 @@ nav ul li ul {
 
 .header-frame .logo {
     display: block;
-    width: 250px;
-    height: 51px;
+    width: auto;
+    height: auto;
     float: left;
 }
 
@@ -802,14 +802,14 @@ nav ul li ul {
 }
 
     .vision-mission .vision .right-col .intro {
-        margin: 20% 0;
+        margin: 25% 0;
     }
 
 .vision-mission .mission .right-col {
     height: 600px;
     position: relative;
     overflow: hidden;
-    background: url(../images/african-doctor-lo.jpg) no-repeat;
+    background: url(../images/home-hospice-care-precious-hospice-atlanta-1200x744.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -1344,6 +1344,8 @@ nav ul li ul {
 
         .links .content p {
             width: 80%;
+            margin: 0;
+            font-size: 0.9em;
         }
 
         .links .content ul {
