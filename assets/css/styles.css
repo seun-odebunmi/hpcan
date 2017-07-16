@@ -85,7 +85,6 @@ body {
     line-height: 1.43;
     font-size: 100%;
     color: #666;
-    min-width: 980px;
 }
 /* ==========================================================================
    Links
@@ -771,7 +770,7 @@ nav ul li ul {
 }
 
 .about-us {
-    margin: -120px 0 120px;
+    margin: -120px 0 0;
     position: relative;
     display: block;
     width: 100%;
@@ -803,6 +802,7 @@ nav ul li ul {
     text-align: center;
     width: 100%;
     min-height: 300px;
+    margin-bottom: 120px;
 }
 
     .block-info p {
@@ -821,7 +821,7 @@ nav ul li ul {
 
 .what-we-do {
     text-align: center;
-    margin: 0 auto 120px;
+    margin: 0 auto;
 }
 
     .what-we-do .title {
@@ -1423,3 +1423,100 @@ nav ul li ul {
                     color: #339344;
                     text-transform: uppercase;
                 }
+
+
+@media (max-width: 767px){
+    
+    .gallery{
+        min-height: 400px;
+    }
+    
+    .carousel-caption h3{
+        font-size: 1.5em;
+        letter-spacing: 0;
+    }
+    
+    .title{
+        font-size: 1.3em;
+        margin: 0 0 30px;
+    }
+    
+    .intro{
+        font-size: 1.8em;
+    }
+    
+    .block-info{
+        min-height: 200px;
+    }
+    
+    .block-info p{
+        font-size: .85em;
+    }
+    
+    .block-info .icon{
+        width: 125px;
+    }
+    
+    .about-us{
+        padding: 0;
+        margin: -60px 0 0;
+    }
+    
+    .about-us .block-info{
+        padding: 30px;
+    }
+    
+    .about-us .block-info p{
+        width: 100%;
+    }
+    
+    .vision-mission .vision .left-col{
+        height: 300px;
+    }
+    
+    .vision-mission .vision .left-col .intro{
+        font-size: 3em;
+        line-height: 300px;
+    }
+    
+    .vision-mission .vision .right-col{
+        min-height: 300px;
+        border-bottom: 1px solid #fff;
+    }
+    
+    .vision-mission .mission .left-col{
+        min-height: 300px;
+    }
+    
+    .vision-mission .mission .right-col{
+        height: 300px;
+    }
+    
+    .vision-mission .mission .right-col .intro{
+        font-size: 3em;
+        line-height: 300px;
+    }
+    
+    .links .content p{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    
+    .links .content ul{
+        margin-bottom: 30px;
+    }
+    
+    .board ul li{
+        width: 100%;
+    }
+    
+    .volunteer-section blockquote.title{
+        font-size: 2.4em;
+    }
+    
+    .form-horizontal .form-group{
+        margin-right: 0;
+        margin-left: 0;
+    }
+    
+}

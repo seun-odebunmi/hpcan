@@ -4,6 +4,8 @@
     <title>
         Hospice and Palliative Care Association of Nigeria - Home
     </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
     <meta content="text/javascript" http-equiv="Content-Script-Type" />
     <meta content="text/css" http-equiv="Content-Style-Type" />

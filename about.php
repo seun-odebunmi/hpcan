@@ -47,81 +47,90 @@ who elect palliative care understand that palliative care teams are to abide by 
                             <h2 class="title">BOARD OF DIRECTORS</h2>
                         </div>
                     </div>
-                    <ul>
-                        <li>
-                            <h2 class="sub-title">Prof JTF Duncan</h2>
-                            <p>HOD, Cancer Care Medicine<br/>
-                            EKO Hospital</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Prof Olaitan Soyanwo</h2>
-                            <p>Professor and Consultant at<br/>
-                            Centre for Palliative care, Nigeria</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr AR Oyesegun</h2>
-                            <p>Chief Radiation Oncologist,<br/>
-                            National Hospital Abuja.</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr (Mrs) YI Thorpe</h2>
-                            <p><br/>
-                            </p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr ZO Ajuwon</h2>
-                            <p><br/>
-                            </p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Chidinma Uwajumagu</h2>
-                            <p><br/>
-                            </p>
-                        </li>
-                    </ul>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <ul>
+                                <li>
+                                    <h2 class="sub-title">Prof JTF Duncan</h2>
+                                    <p>HOD, Cancer Care Medicine<br/>
+                                    EKO Hospital</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Prof Olaitan Soyanwo</h2>
+                                    <p>Professor and Consultant at<br/>
+                                    Centre for Palliative care, Nigeria</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr AR Oyesegun</h2>
+                                    <p>Chief Radiation Oncologist,<br/>
+                                    National Hospital Abuja.</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr (Mrs) YI Thorpe</h2>
+                                    <p><br/>
+                                    </p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr ZO Ajuwon</h2>
+                                    <p><br/>
+                                    </p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Chidinma Uwajumagu</h2>
+                                    <p><br/>
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    
                     <div class="row">
                         <div class="col-md-12">
                             <h2 class="title">PRESENT OFFICIALS</h2>
                         </div>
                     </div>
-                    <ul>
-                        <li>
-                            <h2 class="sub-title">Dr S Otene</h2>
-                            <p>President</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Mrs VR Kajang</h2>
-                            <p>Vice President</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr O Akinyemiju</h2>
-                            <p>General Secretary</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr Babatunde Yusuf</h2>
-                            <p>Ass. Secretary General</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">HBM Hamza</h2>
-                            <p>Treasurer</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Mrs Adegboye OM</h2>
-                            <p>Financial Secretary</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Hajiya fati Gambo</h2>
-                            <p>Auditor</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Pauline Daniel</h2>
-                            <p>PRO/Social Secretary</p>
-                        </li>
-                        <li>
-                            <h2 class="sub-title">Dr A A Adenipekun</h2>
-                            <p>Ex Officio</p>
-                        </li>
-                    </ul>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <ul>
+                                <li>
+                                    <h2 class="sub-title">Dr S Otene</h2>
+                                    <p>President</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Mrs VR Kajang</h2>
+                                    <p>Vice President</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr O Akinyemiju</h2>
+                                    <p>General Secretary</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr Babatunde Yusuf</h2>
+                                    <p>Ass. Secretary General</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">HBM Hamza</h2>
+                                    <p>Treasurer</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Mrs Adegboye OM</h2>
+                                    <p>Financial Secretary</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Hajiya fati Gambo</h2>
+                                    <p>Auditor</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Pauline Daniel</h2>
+                                    <p>PRO/Social Secretary</p>
+                                </li>
+                                <li>
+                                    <h2 class="sub-title">Dr A A Adenipekun</h2>
+                                    <p>Ex Officio</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
