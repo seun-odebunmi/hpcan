@@ -17,10 +17,10 @@
                                         <button type="button" class="btn btn-primary" data-filter="*">All</button>
                                     </div>
                                     <div class="btn-group" role="group">
-                                        <button type="button" class="btn btn-default" data-filter=".filter-w-c-d-f-a">World Cancer Day, FMC, Abeokuta</button>
+                                        <button type="button" class="btn btn-default" title="World Cancer Day, FMC, Abeokuta" data-filter=".filter-w-c-d-f-a">World Cancer Day, FMC, Abeokuta</button>
                                     </div>
                                     <div class="btn-group" role="group">
-                                        <button type="button" class="btn btn-default" data-filter=".filter-w-c-d">2017, World Cancer Day</button>
+                                        <button type="button" class="btn btn-default" title="2017, World Cancer Day" data-filter=".filter-w-c-d">2017, World Cancer Day</button>
                                     </div>
                                 </div>                                                                
                             </div>

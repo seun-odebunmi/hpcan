@@ -12,7 +12,36 @@
                             <p>
                                 Fields marked with an<span class="red">*</span> are required.
                             </p>
-                            <form class="form-horizontal" method="post" action="includes/contactProcessor.php">
+                            <form class="form-horizontal" method="post" action="includes/contact-form.php">
+                                
+                                <?php if ($_GET['email'] !== null) { 
+    
+                                        if ($_GET['email'] == 'sent-successfully'){
+                                            
+                                            $message = "Message was sent successfully!";
+                                            $alert = "success";
+                                            
+                                        } else if($_GET['email'] == 'not-sent'){
+                                            
+                                            $message = "Message could not be sent! Please try again.";
+                                            $alert = "danger";
+                                            
+                                        }
+                                ?>
+                                
+                                <div class="row">
+                                    <div class="form-group">
+                                        <div class="col-md-6 col-md-offset-3">
+                                            <div class="alert alert-<?=$alert?> alert-dismissible" role="alert">
+                                              <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                              <?=$message?>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <?php } ?>
+                                
                                 <div class="row">
                                     <div class="form-group">
                                         <label class="col-md-3 control-label required">First Name</label>
@@ -67,4 +96,4 @@
             </div>
         </section>
 
-<?php include('includes/footer.php') ?>
+<?php include('includes/footer.php'); ?>
