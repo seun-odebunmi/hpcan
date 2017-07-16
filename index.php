@@ -2,15 +2,30 @@
 
         <div class="gallery">
             <div class="overlay"></div>
-            <h1 class="intro">
-                Our goal is to ensure that palliative<br/>
-                care has a place in medical education<br/>
-                throughout Nigeria.
+            <ul class="cb-slideshow">
+                <li>
+                    <span>Image 01</span>
+                    <div>
+                        <h3>
+                            Our goal is to ensure that palliative<br/>
+                            care has a place in medical education<br/>
+                            throughout Nigeria.
+                        </h3>
+                    </div>
+                </li>
+                <li>
+                    <span>Image 02</span>
+                    <div>
+                        <h3>
+                            The object of hospice care is to treat<br/>
+                            the whole person, not the disease.
+                        </h3>
+                    </div>
+                </li>
+            </ul>
 <!--
-                The object of hospice care is to treat<br/>
-                the whole person, not the disease.
+            <h1 class="intro"></h1>
 -->
-            </h1>
         </div>
 
         <!-- / gallery -->
